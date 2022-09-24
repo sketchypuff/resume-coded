@@ -152,3 +152,10 @@ hr {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+.footer-notes {
+    font-size: 12px;
+    background: yellow;
+    margin: 0;
+    padding: 8px;
+}
